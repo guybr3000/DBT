@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+
+  - name: GUY_DIT_45604
+    description: "Class test data"
+    database: GUY_DIT_45604
+    schema: class_test
+    tables:
+      - name: CUSTOMERS
+        description: "This is Customer table info"
+      - name: ORDERS
+        description: "This is Order table info"
+      - name: PRODUCT
+        description: "This is Product table info"
